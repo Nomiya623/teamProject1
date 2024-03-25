@@ -15,6 +15,8 @@
 # 📕 발표 ppt
 [240321 ecomarket 발표자료](https://github.com/Nomiya623/teamProject1/blob/c26799511894476058c2cf43c2efd90cea15f2ab/teamProject/240321%20ecomarket%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
+# 📒Database
+![Database](https://github.com/Nomiya623/teamProject1/blob/565f180c60e2899f089285ea48fae91c333a33a7/teamProject/database.png)
 
 # 🛠 활용 언어
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
