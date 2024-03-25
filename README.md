@@ -13,8 +13,7 @@
 |알리야|풀스택|<a href="https://github.com/Nomiya623">Nomiya623</a>|
 
 # 📕 발표 ppt
-[240321 ecomarket 발표자료](https://github.com/Nomiya623/teamProject1/blob/e27b99550eae5ca2837823cc192a834e5f8a9684/teamProject/240321%20ecomarket%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
-![PDF Page 8](URL_TO_IMAGE_OF_PDF_PAGE_8)
+[240321 ecomarket 발표자료](https://github.com/Nomiya623/teamProject1/blob/c26799511894476058c2cf43c2efd90cea15f2ab/teamProject/240321%20ecomarket%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 
 # 🛠 활용 언어
