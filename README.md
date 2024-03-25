@@ -15,7 +15,7 @@
 # 📕 발표 ppt
 [240321 ecomarket 발표자료](https://github.com/Nomiya623/teamProject1/blob/c26799511894476058c2cf43c2efd90cea15f2ab/teamProject/240321%20ecomarket%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
-# 📒Database
+# 📒데이터베이스
 ![Database](https://github.com/Nomiya623/teamProject1/blob/565f180c60e2899f089285ea48fae91c333a33a7/teamProject/database.png)
 
 # 🛠 활용 언어
@@ -28,7 +28,10 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white)
- 
+
+# 🖼️ 스크린 디자인
+![Screen design](https://github.com/Nomiya623/teamProject1/blob/843a8a529bc6010df7973f8d6223c98794ee33dd/teamProject/screen%20design.png)
+
 # 📑 프로젝트 수행절차
 <li>개발 기간: 24/2/27 ~ 24/3/21</li>
 <li>24/2/27 ~ 24/2/29 프로젝트 기획 및 설계</li>
